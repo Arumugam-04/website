@@ -1,0 +1,9 @@
+.mainView {
+  display: flex;
+  background-color: aqua;
+  align-items: center;
+  justify-content: center;
+}
+.text {
+  color: blue;
+}
